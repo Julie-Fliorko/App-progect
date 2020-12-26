@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="id_activityScreenTitles">
+        <item></item>
+        <item>News</item>
+        <item>Notifications</item>
+        <item>Music</item>
+        <item>Settings</item>
+        <item>About us</item>
+        <item>FAQ</item>
+    </string-array>
+    <array name="id_activityScreenIcons">
+        <item>@drawable/hamburger</item>
+        <item>@drawable/news</item>
+        <item>@drawable/faq</item>
+        <item>@drawable/customise</item>
+        <item>@drawable/notifications</item>
+        <item>@drawable/about_us</item>
+        <item>@drawable/music</item>
+        <item>@drawable/faq</item>
+    </array>
+</resources>
